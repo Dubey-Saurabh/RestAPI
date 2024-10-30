@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rerun failed tests Suite">
+
+    <listeners>
+        <listener class-name="com.qa.utilities.ExtentReportListener"></listener>
+
+    </listeners>
+    <test name="Rerun Failed tests">
+        <classes>
+<!--            <class name="com.qa.test.DataDrivenTest"/>-->
+            <class name="com.qa.test.UserTest2"></class>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

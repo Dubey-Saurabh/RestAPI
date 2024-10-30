@@ -1,0 +1,10 @@
+com\qa\test\UserTest2.class
+com\qa\utilities\ExtentReportListener.class
+com\qa\utilities\XLUtility.class
+com\qa\payload\User.class
+com\qa\test\UserTest.class
+com\qa\endpoints\Routes.class
+com\qa\endpoints\UserSectionCrudOperation.class
+com\qa\endpoints\UserSectionCrudOperation2.class
+com\qa\test\DataDrivenTest.class
+com\qa\utilities\Dataproviders.class
